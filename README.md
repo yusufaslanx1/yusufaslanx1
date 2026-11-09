@@ -1,12 +1,12 @@
-# Merhaba, ben Yusuf Ziya Aslan! 
+# Merhaba, ben Yusuf Ziya Aslan! 👋
 
-### Yazılım Mühendisliği | Yazılım Geliştirici Adayı
+### Yazılım Geliştirici | Software Developer
 
-Doğuş Üniversitesi Yazılım Mühendisliği öğrencisiyim. Web ve mobil uygulama geliştirme, backend teknolojileri ve veritabanı yönetimi alanlarıyla ilgileniyorum.
+Yazılım geliştirme alanında kendimi sürekli geliştirmeyi hedefleyen bir yazılım geliştiriciyim. Web ve mobil uygulama geliştirme, backend teknolojileri ve veritabanı yönetimi alanlarıyla ilgileniyorum.
 
-Yazılım alanında kendimi sürekli geliştiriyor, öğrendiklerimi projeler üzerinde uygulayarak teknik becerilerimi ilerletmeyi hedefliyorum.
+Yeni teknolojiler öğrenmeyi, teknik problemler çözmeyi ve öğrendiklerimi gerçek projelere aktarmayı seviyorum. Amacım, kullanıcı ihtiyaçlarına yönelik işlevsel ve sürdürülebilir yazılım çözümleri geliştirmek.
 
-###  Kullandığım Teknolojiler
+### 🛠️ Teknolojiler ve Araçlar
 
 - HTML
 - CSS
@@ -16,21 +16,22 @@ Yazılım alanında kendimi sürekli geliştiriyor, öğrendiklerimi projeler ü
 - Microsoft SQL Server
 - Git & GitHub
 
-###  Gelişim Alanlarım
+### 💻 İlgi Alanlarım
 
-- Backend geliştirme
-- Mobil uygulama geliştirme
-- Veritabanı yönetimi
-- Yazılım mimarisi ve tasarım
+- Web Geliştirme
+- Mobil Uygulama Geliştirme
+- Backend Geliştirme
+- Veritabanı Yönetimi
+- Yazılım Mimarisi
 
-###  Hedeflerim
+### 🎯 Hedeflerim
 
 - Gerçek dünya problemlerine yönelik projeler geliştirmek.
-- Teknik bilgi ve becerilerimi ilerletmek.
+- Teknik yetkinliklerimi sürekli ilerletmek.
 - Açık kaynak projelere katkıda bulunmak.
-- Yazılım sektöründe profesyonel deneyim kazanmak.
+- Yazılım sektöründe profesyonel kariyerimi geliştirmek.
 
-###  İletişim
+### 📫 İletişim
 
 - GitHub: [yusufaslanx1](https://github.com/yusufaslanx1)
 - Konum: İstanbul, Türkiye
